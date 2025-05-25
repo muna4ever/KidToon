@@ -1,0 +1,18 @@
+{
+  "title": "Scientist",
+  "background": "lab.png",
+  "props": ["microscope.png", "test_tube.png"],
+  "story": [
+    {
+      "scene": "lab.png",
+      "narration": "You are a scientist! Let's do an experiment.",
+      "actions": ["mix chemicals", "look through microscope"]
+    }
+  ],
+  "quiz": {
+    "question": "What does a scientist do?",
+    "options": ["Paints", "Experiments", "Cooks"],
+    "answer": "Experiments"
+  },
+  "reward": "scientist_star.png"
+}
