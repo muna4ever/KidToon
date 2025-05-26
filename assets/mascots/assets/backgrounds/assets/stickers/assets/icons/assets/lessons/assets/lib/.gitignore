@@ -5,6 +5,9 @@
 build/
 generated_plugin_registrant.dart
 
+# Ignore generated Flutter localization files
+lib/gen_l10n/
+
 # Visual Studio Code
 .vscode/
 .history/
