@@ -10,10 +10,12 @@ import 'screens/rewards_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(KidToonApp());
+  runApp(const KidToonApp());
 }
 
 class KidToonApp extends StatelessWidget {
+  const KidToonApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

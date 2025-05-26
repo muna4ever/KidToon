@@ -66,7 +66,7 @@ class StoryComposerScreen extends StatelessWidget {
           SizedBox(height: 24),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
-              primary: Colors.amber,
+              backgroundColor: Colors.amber,
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
               padding: EdgeInsets.symmetric(horizontal: 56, vertical: 16),
             ),

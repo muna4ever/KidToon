@@ -80,7 +80,7 @@ class _UploadScreenState extends State<UploadScreen> {
               SizedBox(height: 36),
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.amber,
+                  backgroundColor: Colors.amber,
                   shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
                   padding: EdgeInsets.symmetric(horizontal: 48, vertical: 18),
                   elevation: 8,

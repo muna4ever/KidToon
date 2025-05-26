@@ -57,7 +57,7 @@ class LessonSelectionScreen extends StatelessWidget {
             padding: const EdgeInsets.only(bottom: 24.0),
             child: ElevatedButton(
               style: ElevatedButton.styleFrom(
-                primary: Colors.amber,
+                backgroundColor: Colors.amber,
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
                 padding: EdgeInsets.symmetric(horizontal: 64, vertical: 16),
               ),

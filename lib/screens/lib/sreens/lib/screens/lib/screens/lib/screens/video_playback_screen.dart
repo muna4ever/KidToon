@@ -28,7 +28,7 @@ class VideoPlaybackScreen extends StatelessWidget {
               children: [
                 ElevatedButton.icon(
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.amber,
+                    backgroundColor: Colors.amber,
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
                     padding: EdgeInsets.symmetric(horizontal: 22, vertical: 10),
                   ),
@@ -39,7 +39,7 @@ class VideoPlaybackScreen extends StatelessWidget {
                 SizedBox(width: 20),
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.amber,
+                    backgroundColor: Colors.amber,
                     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
                     padding: EdgeInsets.symmetric(horizontal: 22, vertical: 10),
                   ),
