@@ -29,6 +29,7 @@ flutter:
     - assets/lessons/
   generate: true
 
+# Localization configuration for Flutter gen-l10n tool
 localizations:
   arb-dir: lib/l10n
   template-arb-file: app_en.arb
