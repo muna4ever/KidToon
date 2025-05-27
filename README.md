@@ -28,4 +28,4 @@ KidToon is a Flutter app for children to cartoonify their selfies, select a lear
 
 ## Privacy
 
-See [assets/privacy_policy.md](assets/privacy_policy.md).
+See [privacy_policy.md](privacy_policy.md).
