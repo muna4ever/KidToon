@@ -22,15 +22,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-<<<<<<< HEAD
-  flutter_lints: ^5.0.0
-=======
   flutter_lints: ^6.0.0
   leak_tracker_flutter_testing: ^3.0.10
   leak_tracker_testing: ^3.0.2
   lints: ^6.0.0
   test_api: ^0.7.6
->>>>>>> faf751cb558317ea9f2c9fa2955c046662f2f2fb
 
 flutter:
   uses-material-design: true
