@@ -25,7 +25,7 @@ dev_dependencies:
   leak_tracker_flutter_testing: ^3.0.10
   leak_tracker_testing: ^3.0.2
   lints: ^3.0.0
-  # Removed test_api to resolve conflict with flutter_test
+  # Removed test_api to resolve conflict
 
 flutter:
   uses-material-design: true
@@ -37,7 +37,6 @@ flutter:
     - assets/lessons/
   generate: true
 
-# Localization configuration for Flutter gen-l10n tool
 localizations:
   arb-dir: lib/l10n
   template-arb-file: app_en.arb
