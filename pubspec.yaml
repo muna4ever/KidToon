@@ -25,7 +25,7 @@ dev_dependencies:
   leak_tracker_flutter_testing: ^3.0.10
   leak_tracker_testing: ^3.0.2
   lints: ^3.0.0
-  test_api: ^0.7.6
+  # Removed test_api to resolve conflict with flutter_test
 
 flutter:
   uses-material-design: true
